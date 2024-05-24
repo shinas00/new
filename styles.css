@@ -1,0 +1,94 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: "Merriweather", serif;
+}
+
+.FirstDiv {
+    background-color: #FFF9D0;
+    height: 580px;
+}
+
+.Mountain {
+    width: 710px;
+    top: 90px;
+    position: relative;
+}
+
+.Cloud-Left {
+    width: 190px;
+    position: absolute;
+    right: -85px;
+    top: 158px;
+}
+
+.Cloud-Right {
+    width: 190px;
+    position: absolute;
+    left: -87px;
+    top: 41px;
+}
+
+.headline {
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 85px;
+    border-collapse: collapse;
+    font-size: 1.3125em;
+}
+
+h1 {
+    font-family: "Sacramento", cursive;
+    margin: 0;
+    color: #66bfbf;
+    font-size: 65px;
+}
+
+.FirstP {
+    font-family: "Montserrat", sans-serif;
+}
+
+
+
+.SecondDiv {
+    background-color: #CAF4FF;
+    padding-bottom: 20px;
+}
+
+
+.ThirdDiv {
+    background-color: #A0DEFF;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+hr {
+    margin-top: 13%;
+    margin-bottom: 3%;
+    border-style: none;
+    border-top-style: dotted;
+    color: black;
+    height: 5px;
+    width: 50px;
+    border-width: 5px;
+}
+
+.FourthDiv {
+    background-color: #5AB2FF;
+    height: 16px;
+    margin: -16px;
+}
+
+.SkillsDiv {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+h3 {
+    color: #66bfbf;
+}
+
+p {
+    line-height: 2;
+}
